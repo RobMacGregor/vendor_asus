@@ -83,6 +83,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tilapia/proprietary/libnvwinsys.so:system/lib/libnvwinsys.so \
     vendor/asus/tilapia/proprietary/libnvwsi.so:system/lib/libnvwsi.so \
     vendor/asus/tilapia/proprietary/libsensors.lightsensor.so:system/lib/libsensors.lightsensor.so \
+    vendor/asus/tilapia/proprietary/libstagefrighthw.so:system/lib/libstagefrighthw.so \
     vendor/asus/tilapia/proprietary/libtf_crypto_sst.so:system/lib/libtf_crypto_sst.so \
     vendor/asus/tilapia/proprietary/libxgold-ril.so:system/lib/libxgold-ril.so \
     vendor/asus/tilapia/proprietary/libpn544_fw.so:system/vendor/firmware/libpn544_fw.so \
