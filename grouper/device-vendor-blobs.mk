@@ -36,7 +36,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/grouper/proprietary/lib/hw/hwcomposer.tegra3.so:system/lib/hw/hwcomposer.tegra3.so \
     vendor/asus/grouper/proprietary/lib/hw/keystore.grouper.so:system/lib/hw/keystore.grouper.so \
     vendor/asus/grouper/proprietary/lib/hw/sensors.grouper.so:system/lib/hw/sensors.grouper.so \
-    vendor/asus/grouper/proprietary/lib/hw/bluetooth.default.so:system/lib/hw/bluetooth.default.so \
     vendor/asus/grouper/proprietary/lib/libardrv_dynamic.so:system/lib/libardrv_dynamic.so \
     vendor/asus/grouper/proprietary/lib/libcgdrv.so:system/lib/libcgdrv.so \
     vendor/asus/grouper/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
