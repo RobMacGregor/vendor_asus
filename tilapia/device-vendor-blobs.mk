@@ -36,6 +36,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tilapia/proprietary/hwcomposer.tegra3.so:system/lib/hw/hwcomposer.tegra3.so \
     vendor/asus/tilapia/proprietary/keystore.grouper.so:system/lib/hw/keystore.grouper.so \
     vendor/asus/tilapia/proprietary/sensors.grouper.so:system/lib/hw/sensors.grouper.so \
+    vendor/asus/tilapia/proprietary/bluetooth.default.so:system/lib/hw/bluetooth.default.so \
     vendor/asus/tilapia/proprietary/libardrv_dynamic.so:system/lib/libardrv_dynamic.so \
     vendor/asus/tilapia/proprietary/libcgdrv.so:system/lib/libcgdrv.so \
     vendor/asus/tilapia/proprietary/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
